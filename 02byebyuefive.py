@@ -12,8 +12,9 @@ if __name__ == '__main__':
                         for i in range(4, length, 5):
                             circle.pop(i - temp_count)
                             temp_count += 1
-                        for i in range(0, length % 5):
-                            circle.insert(0, circle.pop())
+                        # for i in range(0, length % 5):
+                        #     circle.insert(0, circle.pop())
+                        circle = circle[-(length % 5):]+circle[0:-(length % 5)]
                     else:
                         temp = circle.pop(0)
                         count += 1
