@@ -36,6 +36,7 @@ def inorder(root):  # 中序遍历
         print(root.key)
         inorder(root.right)
 
+
 def postorder(root):  # 后序遍历
     if root is None:
         return
