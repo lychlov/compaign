@@ -61,4 +61,3 @@ if __name__ == '__main__':
                 post = postorder(root)
                 pre = preorder(root)
                 ino = inorder(root)
-                out_file.write("{} {} {}\n".format("".join(pre),''.join(ino),''.join(post)))
