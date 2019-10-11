@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/2019battle/test-in.txt" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/2019battle/初赛题目/19题目.txt" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/mdt/答案/ECI_MDT答案1.csv" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/mdt/答案/OVERLAP20答案2.csv" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/mdt/答案/OVERLAP50答案4.csv" charset="GB2312" />
@@ -9,6 +11,7 @@
     <file url="file://$PROJECT_DIR$/speed/5. 基础编程题题干补充及数据样例文件（上传）/示例文件/example-ip.txt" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/speed/输入文件及样例文件/bus-example.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/speed/输入文件及样例文件/game-example.txt" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/初赛题目/19题目.txt" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/第一问答案.txt" charset="US-ASCII" />
   </component>
 </project>

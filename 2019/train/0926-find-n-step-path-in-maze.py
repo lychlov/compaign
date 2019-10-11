@@ -123,5 +123,7 @@ if __name__ == '__main__':
                 maze_edges = get_maze_edges(maze, rows, columns)
                 maze_graph = draw_graph_with_edges(maze_edges)
                 result = find_all_path_with_networkx(maze_edges, start, end, time)
+
                 result = find_all_path_with_stack(maze_graph, start, end, time)
+
                 out_file.write("{}\n".format(bool(result)))
